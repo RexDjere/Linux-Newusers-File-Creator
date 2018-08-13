@@ -1,11 +1,12 @@
-// Newusers File Creator: creates a file needed to batch add users with Linux "newusers" command.****
-// Each line in output file holds data for 1 user.                                                  *
-// Author: Rex Djere.                                                                               *
-// © 2018-Present, Rex Djere.                                                                       *
-// License: GPL version 3 or later.                                                                 *
-// Requirements: C++ 11 or later.                                                                   *
-// Version: Monday 08/13/18 04:10:24 PM                                                             *                                                                                        *
-//***************************************************************************************************
+//***************************************************************************************************************************************************
+// Newusers File Creator: creates a file needed to batch add users with Linux "newusers" command.                                                   *
+// Each line in output file holds data for 1 user.                                                                                                  *
+// Author: Rex Djere.                                                                                                                               *
+// © 2018-Present, Rex Djere.                                                                                                                       *
+// License: GPL version 3 or later.                                                                                                                 *
+// Requirements: C++ 11 or later.                                                                                                                   *
+// Version: Monday 08/13/18 04:21:37 PM                                                                                                             *                                                                                        *
+//***************************************************************************************************************************************************
 
 // output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell>
 
