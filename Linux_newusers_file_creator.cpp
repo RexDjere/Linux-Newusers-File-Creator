@@ -4,9 +4,9 @@
 // Author: Rex Djere.                                                                                                 *
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
-// Requirements: C++ 11 or later.  									       	      *		
-// Version: Monday 08/13/18 04:40:39 PM										      *
-// Generate version: date '+%A %D %X' 									              *
+// Requirements: C++ 11 or later.                                                                                     *		
+// Version: Monday 08/13/18 04:45:11 PM                                                                               *
+// Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
 // output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell>
