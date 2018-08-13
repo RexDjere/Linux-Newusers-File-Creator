@@ -5,7 +5,7 @@
 // © 2018-Present, Rex Djere.                                                                                                                       *
 // License: GPL version 3 or later.                                                                                                                 *
 // Requirements: C++ 11 or later.  														    *		
-// Version: Monday 08/13/18 04:31:44 PM														    *
+// Version: Monday 08/13/18 04:35:53 PM														    *
 //***************************************************************************************************************************************************
 
 // output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell>
@@ -139,6 +139,7 @@ int main()
    return 0;
 }
 
+// functions
 int get_num_users() // gets and returns number of users that the sysadmin wants to add
 {
     int gnu_num_users = 0;
