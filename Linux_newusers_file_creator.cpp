@@ -4,7 +4,7 @@
 // © 2018-Present, Rex Djere.                                                                       *
 // License: GPL version 3 or later.                                                                 *
 // Requirements: C++ 11 or later.                                                                   *
-// Version: Monday 08/13/18 02:53:24 PM                                                             *                                                                                        *
+// Version: Monday 08/13/18 04:10:24 PM                                                             *                                                                                        *
 //***************************************************************************************************
 
 // output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell>
