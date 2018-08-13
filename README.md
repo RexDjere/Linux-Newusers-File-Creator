@@ -1,6 +1,6 @@
-##Linux Newusers File Creator
+## Linux Newusers File Creator
 
-_Author:_ 
+**Author:**
 Rex Djere
 
 _Purpose:_ 
@@ -16,6 +16,6 @@ _License:_
 GPL version 3 or later.
 
 _Usage:_
-- compile with gcc: g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
-- run: ./Linux_newusers_file_creator
+- _compile with gcc:_ g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
+- _run:_ ./Linux_newusers_file_creator
 
