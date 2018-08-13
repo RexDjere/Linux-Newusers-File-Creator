@@ -1,12 +1,13 @@
-//***************************************************************************************************************************************************
-// Newusers File Creator: creates a file needed to batch add users with Linux "newusers" command.                                                   *
-// Each line in output file holds data for 1 user.                                                                                                  *
-// Author: Rex Djere.                                                                                                                               *
-// © 2018-Present, Rex Djere.                                                                                                                       *
-// License: GPL version 3 or later.                                                                                                                 *
-// Requirements: C++ 11 or later.  														    *		
-// Version: Monday 08/13/18 04:35:53 PM														    *
-//***************************************************************************************************************************************************
+//*********************************************************************************************************************
+// Newusers File Creator: creates a file needed to batch add users with Linux "newusers" command.                     *
+// Each line in output file holds data for 1 user.                                                                    *
+// Author: Rex Djere.                                                                                                 *
+// © 2018-Present, Rex Djere.                                                                                         *
+// License: GPL version 3 or later.                                                                                   *
+// Requirements: C++ 11 or later.  									       	      *		
+// Version: Monday 08/13/18 04:40:39 PM										      *
+// Generate version: date '+%A %D %X' 									              *
+//*********************************************************************************************************************
 
 // output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell>
 
