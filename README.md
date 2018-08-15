@@ -16,6 +16,6 @@ C++11 or greater.
 GPL version 3 or later.
 
 **Usage:**
-- **_compile with gcc:_** g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
+- **_compile with gcc 5 or later:_** g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
 - **_run:_** ./Linux_newusers_file_creator
 
