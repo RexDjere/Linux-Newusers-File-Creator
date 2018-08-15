@@ -1,0 +1,3 @@
+patrick.stewart:FZiI3rpbeJtUk48mlq6KMgxD2nC0AyjN:755:555:Patrick Stewart:/home/patrick.stewart:/bin/bash
+michael.jordan:k4VfoCBTSsML92Jth1xKw8PNZnjz3cXi:756:555:Michael Jordan:/home/michael.jordan:/bin/bash
+sonequa.martin-green:mgPtjADX62RT0eKGW75iLYvVu91H3ZOF:757:555:Sonequa Martin-Green:/home/sonequa.martin-green:/bin/bash
