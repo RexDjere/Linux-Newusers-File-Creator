@@ -1,5 +1,4 @@
-/* 	Linux Newusers File Creator: creates a file needed to batch add 
- * 	users with Linux "newusers" command.               
+/* 	Linux Newusers File Creator: creates a file needed to batch add users with Linux "newusers" command.               
  *	Each line in output file holds data for 1 user.                                                                    
  *	Author: Rex Djere.                                                                                                 
  *	2018-Present, Rex Djere.                                                                                         
