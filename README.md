@@ -10,12 +10,13 @@ Writing this file by hand for a lot of new users can be time-consuming.
 Linux Newusers File Creator makes it much easier.
 
 **Language:**
-C++11 or greater.
+Multiple. The original version was C++11 or greater. Other versions will be written in C, and other languages.
 
 **License:**
 GPL version 3 or later.
 
 **Usage:**
-- **_compile with gcc 5 or later:_** g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
-- **_run:_** ./Linux_newusers_file_creator
+- C++:
+	- **_compile with gcc 5 or later:_** g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator
+	- **_run:_** ./Linux_newusers_file_creator
 
