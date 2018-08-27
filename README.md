@@ -11,7 +11,7 @@ Linux Newusers File Creator makes it much easier.
 
 **Languages:**
 - Multiple. 
--The original version was C++11 or greater. 
+- The original version was C++11 or greater. 
 - Other versions will be written in C, and possibly other languages.
 
 **License:**
