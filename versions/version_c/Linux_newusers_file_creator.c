@@ -11,5 +11,5 @@
 /* output line format: <Username>:<Password>:<UID>:<GID>:<User Info>:<Home Directory>:<Default Shell> */  
 
 /* library header files */
-   #include <stdio.h                                                                       
+#include <stdio.h>                                                                       
 
