@@ -9,8 +9,10 @@ newusers requires a file that has the details for each new user: username, passw
 Writing this file by hand for a lot of new users can be time-consuming.
 Linux Newusers File Creator makes it much easier.
 
-**Language:**
-Multiple. The original version was C++11 or greater. Other versions will be written in C, and other languages.
+**Languages:**
+- Multiple. 
+-The original version was C++11 or greater. 
+- Other versions will be written in C, and possibly other languages.
 
 **License:**
 GPL version 3 or later.
